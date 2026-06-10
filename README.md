@@ -1,15 +1,15 @@
-# Vestido Robótico Interativo 👗🤖
+# Vestido Robótico Interativo 
 
 Projeto interdisciplinar unindo tecnologia e alta costura, desenvolvido como trabalho final para a disciplina de **Introdução à Engenharia de Computação (UFPB)** em parceria com o **Projeto Runway (Moda - UNIPÊ)**.
 
-## 🌟 Motivação e Conceito
+##  Motivação e Conceito
 Este trabalho é uma homenagem a todas as mulheres que lutaram para ocupar espaços na ciência e na tecnologia. Inspirado pelo **Efeito Matilda** (o apagamento histórico de mulheres na STEM), o vestido celebra pioneiras como Marie Curie, Mileva Marić e Henrietta Leavitt. 
 
 Como diz Marian Wright Edelman: *"Você não pode ser o que não pode ver."* — este projeto visa criar visibilidade para mulheres engenheiras e criadoras.
 
 ---
 
-## 🛠️ O que é o Vestido Arduino?
+##  O que é o Vestido Arduino?
 O projeto integra rosas de tecido que giram através de servos motores controlados por um Arduino Uno. Cada flor possui um LED central que representa seu miolo, criando um efeito visual dinâmico e iluminado.
 
 ### Tecnologias e Componentes
@@ -19,7 +19,7 @@ O projeto integra rosas de tecido que giram através de servos motores controlad
 
 ---
 
-## 👥 Equipe Desenvolvedora
+## Equipe Desenvolvedora
 
 ### Grupo Engenharia (UFPB)
 - **Maria Eduarda Cavalcanti Mendes** (Programação e Esquemático)
@@ -37,18 +37,18 @@ O projeto integra rosas de tecido que giram através de servos motores controlad
 
 ---
 
-## 🏗️ Divisão de Tarefas
+##  Divisão de Tarefas
 - **Técnica:** Programação do Arduino, montagem do circuito, soldagem e isolamento térmico/elétrico.
 - **Criação:** Pesquisa de tendências, desenho (croquis), modelagem 3D para 2D e confecção têxtil.
 - **Social:** Pesquisa sobre o papel da mulher na indústria têxtil pós-guerra e ascensão feminina no mercado de trabalho.
 
 ---
 
-## 📁 Estrutura do Código
+##  Estrutura do Código
 - `vestido.cpp`: Lógica principal que alterna o movimento entre dois grupos de servos e controla o estado dos LEDs através de um botão de acionamento.
 
 ---
 
-## 🤖 Esquemático do Circuito
+##  Esquemático do Circuito
 
 ![Print do Repositório](print_github.png)
