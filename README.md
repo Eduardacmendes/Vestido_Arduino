@@ -1,7 +1,5 @@
 # Vestido Robótico Interativo 👗🤖
 
-![Foto do Vestido Robótico](vestido.png)
-
 Projeto interdisciplinar unindo tecnologia e alta costura, desenvolvido como trabalho final para a disciplina de **Introdução à Engenharia de Computação (UFPB)** em parceria com o **Projeto Runway (Moda - UNIPÊ)**.
 
 ## 🌟 Motivação e Conceito
@@ -52,4 +50,5 @@ O projeto integra rosas de tecido que giram através de servos motores controlad
 ---
 
 ## 🤖 Esquemático do Circuito
-![Foto do Vestido Robótico](vestido.png)
+
+![Print do Repositório](print_github.png)
